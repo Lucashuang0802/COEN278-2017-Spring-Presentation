@@ -123,10 +123,9 @@ Lifetime Prevalence of “Severe” Disorder: 1.8% of 13 to 18 year olds
 # Architecture Models
 
 ^
-it is quite helpful to translate our ideas into something we can engineer
-there isn't too much to talk about here
-we chose these two because they are most suitable
-let review the lecture
+- it is quite helpful to translate our ideas into something we can engineer
+- we chose these two because they are most suitable
+- we won't jump into details
 
 ---
 
@@ -182,9 +181,8 @@ How can I associate user data then?
 # Landing:
 
 ^
-- straightforward to what we available and more importantly what we are not
 - features intro
-- match back to requirements
+- straightforward to what we available and more importantly what we are not
 
 ![left fit](main.png)
 
@@ -231,15 +229,16 @@ Why don’t we have an exit button? :scream:
 
 ^ how about move the cancel button to the bottom and make it red
 
-What is some improvements you can think of?
+What are some improvements you can think of?
 
 ---
 
-# Date Presentation:
+# Data Presentation:
 
 ^
 - summary at the top
 - showing data at the bottom
+- edit, delete
 
 ![left fit](chart.png)
 
@@ -247,6 +246,8 @@ What is some improvements you can think of?
 - Bottom section: All recorded data entries from Rater
 
 ---
+
+^ go to next one for the answer
 
 What’s some NFR you can think of here?
 
@@ -263,8 +264,9 @@ What if there are thousands of data entries?
 # Date Exportation:
 
 ^ 
+- we are not expertise in UI/UX
 - Probably we do not want to share to Facebook and Twitter
-- future integration for doctor's UI
+- stay on presetation screen with transparent background
 
 ![left fit](exportation.png)
 
@@ -275,7 +277,6 @@ What if there are thousands of data entries?
 
 ^
 - better demonstarte this feature is available
-- potential place to do: data presentation but we dont want to do that
 
 Why the exportation shows in the main page?
 
@@ -308,7 +309,9 @@ Why the exportation shows in the main page?
 # Software Interface: Firebase
 
 ^ 
-will talk about it. think of it as a database for now
+- will talk about it. think of it as a database for now
+- TestFlight, Apple Developer Portal
+- Server dashboard and so on
 
 ![inline](firebase.jpg)
 
