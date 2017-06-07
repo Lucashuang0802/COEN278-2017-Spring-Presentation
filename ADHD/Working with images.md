@@ -355,7 +355,7 @@ No concrete idea until the app ADHD MedTest was found (https://itunes.apple.com/
 ^
 hi, it is me again
 
-##### Which professor did not talk about :smirk:
+##### :smirk:
 
 ---
 
